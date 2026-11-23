@@ -1,0 +1,5 @@
+# https://agsi-cell.github.io/ robots.txt
+User-agent: *
+Allow: /
+
+Sitemap: https://agsi-cell.github.io/sitemap.xml
